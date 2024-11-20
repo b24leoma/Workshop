@@ -34,7 +34,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 64
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -139,19 +139,19 @@ TextureImporter:
       name: EntropiaRun-Sheet_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 256
-        height: 256
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 93
+        y: 85
+        width: 58
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e59b4f21a29528e4ca925caf29c29c07
-      internalID: -1368453758
+      spriteID: ad266e6a2e0c64d4ca17d5fc4992c3be
+      internalID: 494139256
       vertices: []
       indices: 
       edges: []
@@ -160,19 +160,19 @@ TextureImporter:
       name: EntropiaRun-Sheet_1
       rect:
         serializedVersion: 2
-        x: 256
-        y: 0
-        width: 256
-        height: 256
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 359
+        y: 85
+        width: 46
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 08276ff54ec2ec04eaef78192ed66175
-      internalID: -587609968
+      spriteID: 2e59dee070072ea4eaac046724ca00c8
+      internalID: 837456585
       vertices: []
       indices: 
       edges: []
@@ -181,19 +181,19 @@ TextureImporter:
       name: EntropiaRun-Sheet_2
       rect:
         serializedVersion: 2
-        x: 512
-        y: 0
-        width: 256
-        height: 256
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 615
+        y: 83
+        width: 45
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 12b4fa202aad2c04cb5b5b0dc3adfe85
-      internalID: -1504641329
+      spriteID: 09905e3fd89486b4d890514f1a1ab062
+      internalID: -2020671739
       vertices: []
       indices: 
       edges: []
@@ -202,19 +202,19 @@ TextureImporter:
       name: EntropiaRun-Sheet_3
       rect:
         serializedVersion: 2
-        x: 768
-        y: 0
-        width: 256
-        height: 256
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 866
+        y: 85
+        width: 51
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a2c8fd34611688c4e919471a314d6bae
-      internalID: -964061471
+      spriteID: 87095ba1820cdff49b4b2e271a855c37
+      internalID: 1317426964
       vertices: []
       indices: 
       edges: []
@@ -223,19 +223,19 @@ TextureImporter:
       name: EntropiaRun-Sheet_4
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 0
-        width: 256
-        height: 256
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1115
+        y: 84
+        width: 56
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6a74be7cf2a347f42b40e3394da3442e
-      internalID: -1899423705
+      spriteID: d54213de2ea975e4f8975c8362fe4995
+      internalID: 2050471926
       vertices: []
       indices: 
       edges: []
@@ -244,19 +244,19 @@ TextureImporter:
       name: EntropiaRun-Sheet_5
       rect:
         serializedVersion: 2
-        x: 1280
-        y: 0
-        width: 256
-        height: 256
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 1375
+        y: 84
+        width: 54
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7d1b92022ae79d245af52ba7b23ce61c
-      internalID: 1999605755
+      spriteID: 153c9295e888cf34583a7f5e80ad69cd
+      internalID: 20099906
       vertices: []
       indices: 
       edges: []
@@ -272,12 +272,12 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      EntropiaRun-Sheet_0: -1368453758
-      EntropiaRun-Sheet_1: -587609968
-      EntropiaRun-Sheet_2: -1504641329
-      EntropiaRun-Sheet_3: -964061471
-      EntropiaRun-Sheet_4: -1899423705
-      EntropiaRun-Sheet_5: 1999605755
+      EntropiaRun-Sheet_0: 494139256
+      EntropiaRun-Sheet_1: 837456585
+      EntropiaRun-Sheet_2: -2020671739
+      EntropiaRun-Sheet_3: 1317426964
+      EntropiaRun-Sheet_4: 2050471926
+      EntropiaRun-Sheet_5: 20099906
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
