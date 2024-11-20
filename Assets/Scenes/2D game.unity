@@ -3259,10 +3259,10 @@ MonoBehaviour:
   maxSpeed: 10
   jumpForce: 10
   spriteRenderer: {fileID: 0}
+  controlEnabled: 1
   onAction2:
     m_PersistentCalls:
       m_Calls: []
-  animator: {fileID: 0}
 --- !u!95 &1698605929
 Animator:
   serializedVersion: 5
