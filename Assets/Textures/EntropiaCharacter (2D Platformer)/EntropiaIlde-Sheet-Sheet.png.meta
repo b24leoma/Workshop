@@ -151,7 +151,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 6518bdac3950ffa43b246f18b7f6cd12
-      internalID: -389102871
+      internalID: 7660320341096386392
       vertices: []
       indices: 
       edges: []
@@ -172,7 +172,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: d8c2ee3393a2ae04abdfc23da9d72807
-      internalID: -1574701704
+      internalID: -8360376869024110049
       vertices: []
       indices: 
       edges: []
@@ -193,7 +193,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: edfa9f1f737f966498c534bb49a37b15
-      internalID: -1811105616
+      internalID: 8368875321541855851
       vertices: []
       indices: 
       edges: []
@@ -214,7 +214,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 306d4d679dc167b41a62f942f2bb8570
-      internalID: 1452690612
+      internalID: 1426002782931847471
       vertices: []
       indices: 
       edges: []
@@ -235,7 +235,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 9c77b7eaed020494d84cf1850d4eb39b
-      internalID: -764947926
+      internalID: -2787122486724663938
       vertices: []
       indices: 
       edges: []
@@ -250,16 +250,12 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-<<<<<<< Updated upstream
     nameFileIdTable:
-      EntropiaIlde-Sheet-Sheet_0: -389102871
-      EntropiaIlde-Sheet-Sheet_1: -1574701704
-      EntropiaIlde-Sheet-Sheet_2: -1811105616
-      EntropiaIlde-Sheet-Sheet_3: 1452690612
-      EntropiaIlde-Sheet-Sheet_4: -764947926
-=======
-    nameFileIdTable: {}
->>>>>>> Stashed changes
+      EntropiaIlde-Sheet-Sheet_0: 7660320341096386392
+      EntropiaIlde-Sheet-Sheet_1: -8360376869024110049
+      EntropiaIlde-Sheet-Sheet_2: 8368875321541855851
+      EntropiaIlde-Sheet-Sheet_3: 1426002782931847471
+      EntropiaIlde-Sheet-Sheet_4: -2787122486724663938
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
