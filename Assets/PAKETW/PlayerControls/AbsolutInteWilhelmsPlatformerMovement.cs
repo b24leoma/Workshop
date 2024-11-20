@@ -11,7 +11,7 @@ using UnityEngine.Events;
 // Gravity for the project is set in Unity at Edit -> Project Settings -> Physics2D-> Gravity Y
 [RequireComponent(typeof(Rigidbody2D), typeof(CircleCollider2D),
     typeof(CapsuleCollider2D))]
-public class PlatformerMovement : MonoBehaviour
+public class AbsolutInteWilhelmsPlatformerMovement : MonoBehaviour
 {
     [SerializeField] private float maxSpeed = 10f;
 
