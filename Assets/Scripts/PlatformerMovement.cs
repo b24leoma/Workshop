@@ -23,7 +23,7 @@ using TMPro;
 
                 // [SerializeField] private float gravityMultiplier = 1;    //unused
                 [SerializeField] private SpriteRenderer spriteRenderer;
-                public bool controlEnabled { get; set; } // You can edit this variable from Unity Events
+                public bool controlEnabled; // You can edit this variable from Unity Events
                 public UnityEvent onAction2;
 
                 private Vector2 moveInput;
