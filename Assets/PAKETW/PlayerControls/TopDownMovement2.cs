@@ -6,7 +6,7 @@ using UnityEngine.Events;
 // This script automatically adds a Rigidbody2D and a CapsuleCollider2D component in the inspector.
 // The following components are needed: Player Input
     [RequireComponent(typeof(Rigidbody2D),typeof(CapsuleCollider2D))]
-public class TopDownMovement : MonoBehaviour
+public class TopDownMovement2 : MonoBehaviour
 {
     public float maxSpeed = 7;
     public bool controlEnabled { get; set; } = true; // You can edit this variable from Unity Events

@@ -10,7 +10,7 @@ using UnityEngine.InputSystem;
 // NOTE: The Canvas of the text component need to hold only the dialogue related UI!
 //       The reason being that Blabber hides the Canvas when the dialogue is over.
 
-public class Blabber : MonoBehaviour
+public class Blabber2 : MonoBehaviour
 {
     [Tooltip("The TextMeshPro text displaying dialogue lines.")]
     public TextMeshProUGUI lineUI;

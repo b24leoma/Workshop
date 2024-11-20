@@ -1,7 +1,7 @@
 
 using UnityEngine;
 using UnityEngine.Events;
-public class UnityEventOnTrigger : MonoBehaviour
+public class UnityEventOnTrigger3 : MonoBehaviour
 {
     [Tooltip("The colliding object that we want to trigger these events with needs to use a tag of the same name as typed in this variable")]
     public string tagToActivate = "Player";

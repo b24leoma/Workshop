@@ -13,14 +13,13 @@ using UnityEngine.Events;
 // Gravity for the project is set in Unity at Edit -> Project Settings -> Physics2D -> Gravity Y
 
 [RequireComponent(typeof(Rigidbody2D), typeof(CircleCollider2D), typeof(CapsuleCollider2D))]
-public class PlatformerMovement : MonoBehaviour
+public class PlatformerMovement3 : MonoBehaviour
 {
     [SerializeField] private float maxSpeed = 10f;
     [SerializeField] private float jumpForce = 10f;
     // [SerializeField] private float gravityMultiplier = 1;    //unused
     [SerializeField] private SpriteRenderer spriteRenderer;
-    
-    
+
     public bool controlEnabled { get; set; } = true; // You can edit this variable from Unity Events
     public UnityEvent onAction2;
     
@@ -54,8 +53,7 @@ public class PlatformerMovement : MonoBehaviour
     void Update()
     {
         velocity = TranslateInputToVelocity(moveInput);
-
-
+        
         // Apply jump-input:
         if (jumpInput && wasGrounded)
         {
@@ -165,12 +163,11 @@ public class PlatformerMovement : MonoBehaviour
 
         if (moveInput == Vector2.zero)
         {
-            animator.SetBool("Run", false);
-            
+            animator.SetBool("isMoving", false);
         }
         else
         {
-            animator.SetBool("Run",true);
+            animator.SetBool("isMoving", true);
         }
     }
 

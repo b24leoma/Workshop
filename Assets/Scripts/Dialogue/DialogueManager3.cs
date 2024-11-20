@@ -4,7 +4,7 @@ using UnityEngine;
 using TMPro;
 using UnityEngine.SceneManagement;
 
-public class DialogueManager : MonoBehaviour
+public class DialogueManager3 : MonoBehaviour
 {
     public TMP_Text nameField;
     public TMP_Text dialogueField;
