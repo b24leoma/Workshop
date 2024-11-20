@@ -452,7 +452,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 3630907665144746750, guid: 679f63e9c53d96d46892271da10b1f20, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -26.150286
+      value: -34.32
       objectReference: {fileID: 0}
     - target: {fileID: 3630907665144746750, guid: 679f63e9c53d96d46892271da10b1f20, type: 3}
       propertyPath: m_LocalPosition.y
@@ -6008,7 +6008,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3630907665144746750, guid: 679f63e9c53d96d46892271da10b1f20, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -6.31
+      value: -5.33
       objectReference: {fileID: 0}
     - target: {fileID: 3630907665144746750, guid: 679f63e9c53d96d46892271da10b1f20, type: 3}
       propertyPath: m_LocalPosition.z
@@ -6042,6 +6042,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7122623297842689260, guid: 679f63e9c53d96d46892271da10b1f20, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 3b2aadebd1c92b64f89fa2f2f64881a4, type: 3}
     - target: {fileID: 7177100587788364098, guid: 679f63e9c53d96d46892271da10b1f20, type: 3}
       propertyPath: m_Name
       value: Berry Variant (4)
@@ -6231,7 +6235,7 @@ SpriteRenderer:
   m_Size: {x: 1, y: 1}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &1152683160
@@ -6414,7 +6418,7 @@ SpriteRenderer:
   m_Size: {x: 1, y: 1}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &1184716959
@@ -6442,11 +6446,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 3630907665144746750, guid: 679f63e9c53d96d46892271da10b1f20, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 8.665184
+      value: -16.38
       objectReference: {fileID: 0}
     - target: {fileID: 3630907665144746750, guid: 679f63e9c53d96d46892271da10b1f20, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.1605167
+      value: -6.99
       objectReference: {fileID: 0}
     - target: {fileID: 3630907665144746750, guid: 679f63e9c53d96d46892271da10b1f20, type: 3}
       propertyPath: m_LocalPosition.z
@@ -6480,6 +6484,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7122623297842689260, guid: 679f63e9c53d96d46892271da10b1f20, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -1617499318, guid: aecd8930891831542901428790618f98, type: 3}
     - target: {fileID: 7177100587788364098, guid: 679f63e9c53d96d46892271da10b1f20, type: 3}
       propertyPath: m_Name
       value: Berry Variant (3)
@@ -6791,7 +6799,7 @@ Transform:
   m_GameObject: {fileID: 1363811090}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 21.5635, y: 23.964, z: -0.2869151}
+  m_LocalPosition: {x: 39.5, y: 23.964, z: 27.1}
   m_LocalScale: {x: 47.48617, y: 18.697552, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -7216,7 +7224,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3630907665144746750, guid: 679f63e9c53d96d46892271da10b1f20, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: 3.49
       objectReference: {fileID: 0}
     - target: {fileID: 3630907665144746750, guid: 679f63e9c53d96d46892271da10b1f20, type: 3}
       propertyPath: m_LocalPosition.z
@@ -7540,7 +7548,7 @@ SpriteRenderer:
   m_Size: {x: 1, y: 0.5}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &1733297550
@@ -7839,7 +7847,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3630907665144746750, guid: 679f63e9c53d96d46892271da10b1f20, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: -11.02
       objectReference: {fileID: 0}
     - target: {fileID: 3630907665144746750, guid: 679f63e9c53d96d46892271da10b1f20, type: 3}
       propertyPath: m_LocalRotation.w
@@ -8130,7 +8138,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3630907665144746750, guid: 679f63e9c53d96d46892271da10b1f20, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -4.8720093
+      value: 3.32
       objectReference: {fileID: 0}
     - target: {fileID: 3630907665144746750, guid: 679f63e9c53d96d46892271da10b1f20, type: 3}
       propertyPath: m_LocalPosition.z
