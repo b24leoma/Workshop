@@ -203,19 +203,19 @@ using TMPro;
                     {
                         Destroy(other.gameObject);
                         GetComponent<AudioSource>().Play();
-                        other.GetComponent<DialogueTrigger>().StartDialogue();
+                        other.GetComponent<DialogueTrigger4>().StartDialogue();
                         DisallowMove();
                     }
                     else if (other.gameObject.CompareTag("Finish"))
                     {
-                        other.GetComponent<DialogueTrigger>().StartDialogue();
+                        other.GetComponent<DialogueTrigger4>().StartDialogue();
                         other.GetComponent<AudioSource>().Play();
                         DisallowMove();
                     }
                     else if (other.gameObject.CompareTag("StartObj"))
                     {
                         Destroy(other.gameObject);
-                        GetComponent<DialogueTrigger>().StartDialogue();
+                        GetComponent<DialogueTrigger4>().StartDialogue();
                         DisallowMove();
                     }
                 }

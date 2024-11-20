@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: b9ddf5fee4d2ecc449d1deefb16d8dfc
+guid: 39068efdc3935c64f93c5f4a37b8d658
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -136,127 +136,106 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: EntropiaRun-Sheet_0
+      name: EntropiaIlde-Sheet-Sheet_0
       rect:
         serializedVersion: 2
-        x: 93
-        y: 85
-        width: 58
-        height: 84
-      alignment: 9
-      pivot: {x: 6, y: 1}
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ad266e6a2e0c64d4ca17d5fc4992c3be
-      internalID: 494139256
+      spriteID: 6518bdac3950ffa43b246f18b7f6cd12
+      internalID: -389102871
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: EntropiaRun-Sheet_1
+      name: EntropiaIlde-Sheet-Sheet_1
       rect:
         serializedVersion: 2
-        x: 359
-        y: 85
-        width: 46
-        height: 84
-      alignment: 9
-      pivot: {x: 6, y: 1}
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2e59dee070072ea4eaac046724ca00c8
-      internalID: 837456585
+      spriteID: d8c2ee3393a2ae04abdfc23da9d72807
+      internalID: -1574701704
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: EntropiaRun-Sheet_2
+      name: EntropiaIlde-Sheet-Sheet_2
       rect:
         serializedVersion: 2
-        x: 615
-        y: 83
-        width: 45
-        height: 86
-      alignment: 9
-      pivot: {x: 6, y: 1}
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 09905e3fd89486b4d890514f1a1ab062
-      internalID: -2020671739
+      spriteID: edfa9f1f737f966498c534bb49a37b15
+      internalID: -1811105616
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: EntropiaRun-Sheet_3
+      name: EntropiaIlde-Sheet-Sheet_3
       rect:
         serializedVersion: 2
-        x: 866
-        y: 85
-        width: 51
-        height: 85
-      alignment: 9
-      pivot: {x: 6, y: 1}
+        x: 768
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 87095ba1820cdff49b4b2e271a855c37
-      internalID: 1317426964
+      spriteID: 306d4d679dc167b41a62f942f2bb8570
+      internalID: 1452690612
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: EntropiaRun-Sheet_4
+      name: EntropiaIlde-Sheet-Sheet_4
       rect:
         serializedVersion: 2
-        x: 1115
-        y: 84
-        width: 56
-        height: 86
-      alignment: 9
-      pivot: {x: 6, y: 1}
+        x: 1024
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d54213de2ea975e4f8975c8362fe4995
-      internalID: 2050471926
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: EntropiaRun-Sheet_5
-      rect:
-        serializedVersion: 2
-        x: 1375
-        y: 84
-        width: 54
-        height: 86
-      alignment: 9
-      pivot: {x: 6, y: 1}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 153c9295e888cf34583a7f5e80ad69cd
-      internalID: 20099906
+      spriteID: 9c77b7eaed020494d84cf1850d4eb39b
+      internalID: -764947926
       vertices: []
       indices: 
       edges: []
@@ -272,12 +251,11 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      EntropiaRun-Sheet_0: 494139256
-      EntropiaRun-Sheet_1: 837456585
-      EntropiaRun-Sheet_2: -2020671739
-      EntropiaRun-Sheet_3: 1317426964
-      EntropiaRun-Sheet_4: 2050471926
-      EntropiaRun-Sheet_5: 20099906
+      EntropiaIlde-Sheet-Sheet_0: -389102871
+      EntropiaIlde-Sheet-Sheet_1: -1574701704
+      EntropiaIlde-Sheet-Sheet_2: -1811105616
+      EntropiaIlde-Sheet-Sheet_3: 1452690612
+      EntropiaIlde-Sheet-Sheet_4: -764947926
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

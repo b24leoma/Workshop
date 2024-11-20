@@ -41,7 +41,7 @@ public class DialogueManager3 : MonoBehaviour
         if (sentences.Count == 0)
         {
             EndDialogue();
-            if (resetLevel) SceneManager.LoadScene("Workshop3");
+            if (resetLevel) SceneManager.LoadScene("LeoWorkshop3");
             return;
         }
 
