@@ -250,12 +250,16 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+<<<<<<< Updated upstream
     nameFileIdTable:
       EntropiaIlde-Sheet-Sheet_0: -389102871
       EntropiaIlde-Sheet-Sheet_1: -1574701704
       EntropiaIlde-Sheet-Sheet_2: -1811105616
       EntropiaIlde-Sheet-Sheet_3: 1452690612
       EntropiaIlde-Sheet-Sheet_4: -764947926
+=======
+    nameFileIdTable: {}
+>>>>>>> Stashed changes
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
